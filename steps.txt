@@ -1,0 +1,8 @@
+Data cleaning with excel
+1. removed comma's from digits
+2.lower case every text and trimmed
+python
+1. cleaning property type column (categorizing generally)
+2. clean status column convert 'new' and 'resale' to 'ready to move'
+3. remove rows with BHK count more than 6 and less than 0
+4. 
